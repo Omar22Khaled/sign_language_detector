@@ -4,4 +4,3 @@ scikit-learn==1.2.0
 gTTS
 playsound
 numpy
-pickle

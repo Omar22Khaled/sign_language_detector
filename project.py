@@ -1,9 +1,9 @@
-import pickle
+#import pickle
 import os
 from gtts import gTTS
 from playsound import playsound 
 
-from datetime import datetime
+#from datetime import datetime
 
 import cv2
 import mediapipe as mp
